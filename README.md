@@ -1,5 +1,9 @@
 # Digital-Image-Processing 📷 
 
+## Techniques
+
+---
+
 ### 🔹 Books 📚
 - **"Digital Image Processing"** – Rafael C. Gonzalez & Richard E. Woods (Best for theory & fundamentals)
 - **"Computer Vision: Algorithms and Applications"** – Richard Szeliski (Covers image processing & vision)
@@ -13,7 +17,7 @@
 - **Pillow (PIL)** – Lightweight image processing library for Python.
 
 
----
+--------------------------------------------------------------------------
 
 ## 🤖 Machine Learning & Image Processing Integration
 
@@ -41,13 +45,12 @@
 - **Style Transfer** – Neural Style Transfer for artistic transformations.
 - **Denoising & Restoration** – Autoencoders, Noise2Noise for cleaning images.
 
----
+----------------------------------------------------------------------------------------
 
 
 ## Resources
 
--  [OpenCV Tutorials](https://docs.opencv.org)
-  - Hands-on image processing with Python using OpenCV.
+-  [OpenCV Tutorials](https://docs.opencv.org) - Hands-on image processing with Python using OpenCV.
     
 ### Online Courses/Playlists  🎓
 - [Intro Video for MATLAB Image Processing](https://youtu.be/w658E77PQ4s?si=Hfo5tReD6q27uLKH)
