@@ -77,3 +77,10 @@ https://www.youtube.com/watch?v=KuXjwB4LzSA&pp=ygUcaW1hZ2UgcHJvY2Vzc2luZyBzdHJhd
 https://www.youtube.com/watch?v=rSGMXktIsYI&pp=ygUcaW1hZ2UgcHJvY2Vzc2luZyBzdHJhdGVnaWVzIA%3D%3D
 https://www.youtube.com/watch?v=3LaVxEX3F0o&list=PLwdnzlV3ogoVsma5GmBSsgJM6gHv1QoAo
 https://www.youtube.com/watch?v=vqRzOGg9mi8&list=PL2zRqk16wsdorCSZ5GWZQr1EMWXs2TDeu
+
+## Github Repos
+- https://github.com/meshtag/Image-processing_practice - Very basic using only Numpy
+- https://github.com/solanoctua/Fundamental-Image-Processing - Basic concepts
+- https://github.com/Blackcipher101/Image-processing - Good level basics with OpenCV
+- https://github.com/BhanuPrakashNani/Image_Processing - In-depth Study consisting of Numerous Techniques with Code
+- https://github.com/shibam120302/Image-Processing - Extensive techniques with OpenCV from WebCam
