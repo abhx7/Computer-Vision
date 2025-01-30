@@ -70,15 +70,13 @@ Denoising & Restoration – Autoencoders, Noise2Noise for cleaning images.
 
 ## Resources
 
-![Intro Video for MATLAB Image Processing](https://youtu.be/w658E77PQ4s?si=Hfo5tReD6q27uLKH)
-![Intro Video for Python Image Processing](https://youtu.be/kSqxn6zGE0c?si=Ko13QKyuhPXLREaR)
-![MATLAB Image Processing Playlist](https://www.youtube.com/watch?v=5sfx7lndIxw&list=PLnF3iL9xWR2sSqXy4clSNqoiOXe_WQ6QU)
-![Computer Vision and Image Processing – Fundamentals and Applications - NPTEL IIT Guwhati](https://youtube.com/playlist?list=PLwdnzlV3ogoVsma5GmBSsgJM6gHv1QoAo&si=nK2h4MZ_sSpiD_I0)
-![Image Processing Topics Playlist](https://youtube.com/playlist?list=PL2zRqk16wsdorCSZ5GWZQr1EMWXs2TDeu&si=abyWPRg9x93b1m_n)
+- ![Intro Video for MATLAB Image Processing](https://youtu.be/w658E77PQ4s?si=Hfo5tReD6q27uLKH)
+- ![Intro Video for Python Image Processing](https://youtu.be/kSqxn6zGE0c?si=Ko13QKyuhPXLREaR)
+- ![MATLAB Image Processing Playlist](https://www.youtube.com/watch?v=5sfx7lndIxw&list=PLnF3iL9xWR2sSqXy4clSNqoiOXe_WQ6QU)
+- ![Computer Vision and Image Processing – Fundamentals and Applications - NPTEL IIT Guwhati](https://youtube.com/playlist?list=PLwdnzlV3ogoVsma5GmBSsgJM6gHv1QoAo&si=nK2h4MZ_sSpiD_I0)
+- ![Image Processing Topics Playlist](https://youtube.com/playlist?list=PL2zRqk16wsdorCSZ5GWZQr1EMWXs2TDeu&si=abyWPRg9x93b1m_n)
 
-![CNNs in Image Processing - 3Blue1Brown](https://www.youtube.com/watch?v=rSGMXktIsYI&pp=ygUcaW1hZ2UgcHJvY2Vzc2luZyBzdHJhdGVnaWVzIA%3D%3D)
-
-
+- ![CNNs in Image Processing - 3Blue1Brown](https://www.youtube.com/watch?v=rSGMXktIsYI&pp=ygUcaW1hZ2UgcHJvY2Vzc2luZyBzdHJhdGVnaWVzIA%3D%3D)
 
 
 ### Github Repos
