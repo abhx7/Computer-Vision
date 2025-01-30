@@ -66,22 +66,21 @@ Super-Resolution – GANs (ESRGAN) for enhancing image quality.
 Style Transfer – Neural Style Transfer for artistic transformations.
 Denoising & Restoration – Autoencoders, Noise2Noise for cleaning images.
 
-
-
 ## Resources
 
-- ![Intro Video for MATLAB Image Processing](https://youtu.be/w658E77PQ4s?si=Hfo5tReD6q27uLKH)
-- ![Intro Video for Python Image Processing](https://youtu.be/kSqxn6zGE0c?si=Ko13QKyuhPXLREaR)
-- ![MATLAB Image Processing Playlist](https://www.youtube.com/watch?v=5sfx7lndIxw&list=PLnF3iL9xWR2sSqXy4clSNqoiOXe_WQ6QU)
-- ![Computer Vision and Image Processing – Fundamentals and Applications - NPTEL IIT Guwhati](https://youtube.com/playlist?list=PLwdnzlV3ogoVsma5GmBSsgJM6gHv1QoAo&si=nK2h4MZ_sSpiD_I0)
-- ![Image Processing Topics Playlist](https://youtube.com/playlist?list=PL2zRqk16wsdorCSZ5GWZQr1EMWXs2TDeu&si=abyWPRg9x93b1m_n)
+### Courses/Playlists
+- [Intro Video for MATLAB Image Processing](https://youtu.be/w658E77PQ4s?si=Hfo5tReD6q27uLKH)
+- [Intro Video for Python Image Processing](https://youtu.be/kSqxn6zGE0c?si=Ko13QKyuhPXLREaR)
+- [MATLAB Image Processing Playlist](https://www.youtube.com/watch?v=5sfx7lndIxw&list=PLnF3iL9xWR2sSqXy4clSNqoiOXe_WQ6QU)
+- [Computer Vision and Image Processing – Fundamentals and Applications - NPTEL IIT Guwahati](https://youtube.com/playlist?list=PLwdnzlV3ogoVsma5GmBSsgJM6gHv1QoAo&si=nK2h4MZ_sSpiD_I0)
+- [Image Processing Topics Playlist](https://youtube.com/playlist?list=PL2zRqk16wsdorCSZ5GWZQr1EMWXs2TDeu&si=abyWPRg9x93b1m_n)
 
-- ![CNNs in Image Processing - 3Blue1Brown](https://www.youtube.com/watch?v=rSGMXktIsYI&pp=ygUcaW1hZ2UgcHJvY2Vzc2luZyBzdHJhdGVnaWVzIA%3D%3D)
+### Topics
+- [CNNs in Image Processing - 3Blue1Brown](https://www.youtube.com/watch?v=rSGMXktIsYI&pp=ygUcaW1hZ2UgcHJvY2Vzc2luZyBzdHJhdGVnaWVzIA%3D%3D)
 
-
-### Github Repos
-- https://github.com/meshtag/Image-processing_practice - Very basic using only Numpy
-- https://github.com/solanoctua/Fundamental-Image-Processing - Basic concepts
-- https://github.com/Blackcipher101/Image-processing - Good level basics with OpenCV
-- https://github.com/BhanuPrakashNani/Image_Processing - In-depth Study consisting of Numerous Techniques with Code
-- https://github.com/shibam120302/Image-Processing - Extensive techniques with OpenCV from WebCam
+### GitHub Repositories
+- [Image-processing_practice](https://github.com/meshtag/Image-processing_practice) - Very basic using only Numpy
+- [Fundamental-Image-Processing](https://github.com/solanoctua/Fundamental-Image-Processing) - Basic concepts
+- [Image-processing (Blackcipher101)](https://github.com/Blackcipher101/Image-processing) - Good level basics with OpenCV
+- [Image_Processing (BhanuPrakashNani)](https://github.com/BhanuPrakashNani/Image_Processing) - In-depth study consisting of numerous techniques with code
+- [Image-Processing (shibam120302)](https://github.com/shibam120302/Image-Processing) - Extensive techniques with OpenCV from WebCam
