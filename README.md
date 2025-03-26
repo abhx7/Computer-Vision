@@ -56,8 +56,9 @@
 - [Intro Video for MATLAB Image Processing](https://youtu.be/w658E77PQ4s?si=Hfo5tReD6q27uLKH)
 - [Intro Video for Python Image Processing](https://youtu.be/kSqxn6zGE0c?si=Ko13QKyuhPXLREaR)
 - [MATLAB Image Processing Playlist](https://www.youtube.com/watch?v=5sfx7lndIxw&list=PLnF3iL9xWR2sSqXy4clSNqoiOXe_WQ6QU)
+- [MathWorks Computer Vision Engineer Professional Certificate](https://www.coursera.org/professional-certificates/mathworks-computer-vision-engineer?utm_source=MathWorks&utm_medium=institutions&utm_campaign=coursera-upenn-november2024-cvprofcert)
 - [Computer Vision and Image Processing – Fundamentals and Applications - NPTEL IIT Guwahati](https://youtube.com/playlist?list=PLwdnzlV3ogoVsma5GmBSsgJM6gHv1QoAo&si=nK2h4MZ_sSpiD_I0)
-- - **[Fast.ai – Practical Deep Learning for Coders](https://course.fast.ai/)** - Great for learning deep learning-based image processing.
+- **[Fast.ai – Practical Deep Learning for Coders](https://course.fast.ai/)** - Great for learning deep learning-based image processing.
 - [Image Processing Topics Playlist](https://youtube.com/playlist?list=PL2zRqk16wsdorCSZ5GWZQr1EMWXs2TDeu&si=abyWPRg9x93b1m_n)
 Paid
 - [Coursera – Digital Image Processing (University of Buffalo)](https://www.coursera.org)  - Covers image enhancement, restoration, segmentation, and compression.
